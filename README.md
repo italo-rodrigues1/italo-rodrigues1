@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/italo-adriano-97971619a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:italosport110@hotmail.com)
 
-Welcome to my Github page! I am Italo and I am finishing my Graduation in Computer Science at the university of Guararapes!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1000&color=F7F7F7&multiline=true&lines=Welcome+to+my+Github+page!;+I+am+Italo+and+I+am+finishing+my;Graduation+in+Computer+Science+;at+the+university+of+Guararapes!)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
