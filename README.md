@@ -1,5 +1,4 @@
-### Hi there 👋 
-### This is Italo Rodrigues!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F743&vCenter=true&lines=Hi+there+%F0%9F%91%8B;This+is+Italo+Rodrigues!)](https://git.io/typing-svg)
 
 [![Github](https://img.shields.io/badge/-Instagram-000?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/italorodrigues_1/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/italo-adriano-97971619a/)
